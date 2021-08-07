@@ -1,0 +1,41 @@
+h1 {
+  text-align: center;
+  padding-top: 65px;
+}
+form {
+  text-align: center;
+  padding: 10px;
+}
+input[type="text"] {
+  text-align: center;
+}
+ul {
+  list-style: none;
+  text-align: left;
+}
+
+.time {
+  position: fixed;
+  top: 10px;
+  left: 35px;
+}
+.date {
+  position: fixed;
+  top: 10px;
+  right: 35px;
+  text-align: center;
+}
+.row {
+  text-align: center;
+  padding: 20px;
+}
+
+.currentTemp {
+  text-align: center;
+  font-size: 50px;
+}
+.btn {
+  position: fixed;
+  right: 43px;
+  top: 45px;
+}
