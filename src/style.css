@@ -13,7 +13,9 @@ ul {
   list-style: none;
   text-align: left;
 }
-
+p {
+  text-align: center;
+}
 .time {
   position: fixed;
   top: 10px;
